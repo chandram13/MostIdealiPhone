@@ -3,3 +3,9 @@
 //
 
 import Foundation
+
+class mostideal{
+    func givenConstraints(){
+        
+    }
+}
